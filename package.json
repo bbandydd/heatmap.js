@@ -1,0 +1,23 @@
+{
+  "name": "heatmap.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "heatmap.min.js",
+  "scripts": {
+    "deploy": "gh-pages -d /"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bbandydd/heatmap.js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bbandydd/heatmap.js/issues"
+  },
+  "homepage": "https://github.com/bbandydd/heatmap.js#readme",
+  "dependencies": {
+    "gh-pages": "^1.0.0"
+  }
+}
